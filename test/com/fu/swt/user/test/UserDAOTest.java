@@ -7,9 +7,6 @@ package com.fu.swt.user.test;
 
 import com.fu.swt.user.UserDAO;
 import com.fu.swt.util.DBHelper;
-import java.sql.SQLException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.naming.NamingException;
 import org.junit.After;
 import org.junit.AfterClass;
