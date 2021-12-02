@@ -1,4 +1,4 @@
-# DAO classes testing with mockito and sonarcloud
+# DAO classes testing with Mockito and SonarCloud
 
 ## In this project you will find
 
